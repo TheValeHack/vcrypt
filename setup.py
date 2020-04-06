@@ -12,7 +12,6 @@ setup(
   keywords = ['ctf', 'cryptography', 'decoder'],
   install_requires=[
           'rsa',
-          'hashlib',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',

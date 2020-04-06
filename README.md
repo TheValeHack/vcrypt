@@ -1,4 +1,4 @@
-# ValeCrypt
+# VCrypt
 
 ### Version : 0.1
 ### Author : Irfan Valerian

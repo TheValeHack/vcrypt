@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'valecrypt',
-  packages = ['valecrypt'],
+  name = 'vcrypt',
+  packages = ['vcrypt'],
   version = '0.1',
   license='MIT',
   description = 'A Very Useful Module For CTF Players And Cryptography Lovers',
   author = 'Irfan Valerian',
   author_email = 'thevale145@gmail.com',
   url = 'https://github.com/TheValeHack/valecrypt',
-  download_url = 'https://github.com/TheValeHack/valecrypt/archive/valecrypt_01.tar.gz',
+  download_url = 'https://github.com/TheValeHack/vcrypt/archive/vcrypt_01.tar.gz',
   keywords = ['ctf', 'cryptography', 'decoder'],
   install_requires=[
           'rsa',

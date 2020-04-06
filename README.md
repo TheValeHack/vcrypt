@@ -1,6 +1,6 @@
 # VCrypt
 
-### Version : 0.1
+### Version : 0.2
 ### Author : Irfan Valerian
 
 ## ~ A Very Useful Module For CTF Players And Cryptography Lovers ~

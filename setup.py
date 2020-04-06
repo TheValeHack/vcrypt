@@ -8,7 +8,7 @@ setup(
   author = 'Irfan Valerian',
   author_email = 'thevale145@gmail.com',
   url = 'https://github.com/TheValeHack/valecrypt',
-  download_url = 'https://github.com/TheValeHack/valecrypt/valecrypt_01/valecrypt_01.tar.gz',
+  download_url = 'https://github.com/TheValeHack/valecrypt/archive/valecrypt_01.tar.gz',
   keywords = ['ctf', 'cryptography', 'decoder'],
   install_requires=[
           'rsa',
